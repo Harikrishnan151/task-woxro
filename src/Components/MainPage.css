@@ -1,0 +1,347 @@
+.container-fluid{
+    background-color: black;
+}
+.heading{
+    color: white;
+    font-weight: 200;
+    text-align: center;
+}
+.img1{
+    width: 600px;
+    align-items: center;
+   
+}
+.sub-heading{
+    color: white;
+    font-weight: 200;
+    text-align: center;
+
+}
+.btn{
+    align-items: center;
+    justify-content: center;
+}
+.btn1{
+    color: black;
+    background-color: white;
+    width: 200px;
+    font-weight: 800;
+    font-size: 18px;
+    margin-left: 420px;
+}
+.img2{
+    width: 310px;
+    height: 200px;
+}
+.sub-heading2{
+    color: white;
+    
+    text-align: center;
+}
+.sub-hading-3{
+    color: white;
+    text-align: center;
+}
+.sub-heading4{
+    color: white;
+    text-align: center;
+}
+.subheading-5{
+    color: white;
+    text-align: center; 
+}
+.btn-2{
+    color: white;
+    border-color: white;
+    width: 180px;
+}
+.btn-3{
+    color:black;
+   background-color: white;
+   width: 180px;
+   font-weight: 600;
+
+}
+.footer{
+    text-align: center;
+    margin-top: 80px;
+}
+.footer-heading{
+    color: white;
+    font-size: small;
+   
+}
+
+@media screen and (min-width:200px) and (max-width:280px){
+    .img1{
+        width: 200px;
+        align-items: center;
+       
+    }
+    .row{
+        
+        flex-direction: column;
+    }
+    .btn1{
+        color: black;
+        background-color: white;
+        width: 200px;
+        font-weight: 800;
+        font-size: 18px;
+        margin-left: 1px;
+    }
+    .img2{
+        width: 200px;
+        height: 150px;
+    }
+    .sub-heading2{
+        color: white;
+        text-align: center;
+        width: 200px;
+    }
+    .sub-heading4{
+        color: white;
+        text-align: center;
+        width: 200px;
+    }
+}
+@media screen and (min-width:280px) and (max-width:320px){
+    .img1{
+        width: 270px;
+        align-items: center;
+       
+    }
+    .row{
+        
+        flex-direction: column;
+    }
+    .btn1{
+        color: black;
+        background-color: white;
+        width: 200px;
+        font-weight: 800;
+        font-size: 18px;
+        margin-left: 1px;
+    }
+    .img2{
+        width: 270px;
+        height: 150px;
+    }
+    .sub-heading2{
+        color: white;
+        text-align: center;
+        width: 280px;
+    }
+    .sub-heading4{
+        color: white;
+        text-align: center;
+        width: 280px;
+    }
+}
+@media screen and (min-width:320px) and (max-width:375px){
+
+    .img1{
+        width: 270px;
+        align-items: center;
+       
+    }
+    .row{
+        
+        flex-direction: column;
+    }
+    .btn1{
+        color: black;
+        background-color: white;
+        width: 200px;
+        font-weight: 800;
+        font-size: 18px;
+        margin-left: 19px;
+    }
+    .img2{
+        width: 260px;
+        height: 150px;
+    }
+    .sub-heading2{
+        color: white;
+        text-align: center;
+        width: 260px;
+    }
+    .sub-heading4{
+        color: white;
+        text-align: center;
+        width: 260px;
+    }
+}
+@media screen and (min-width:375px) and (max-width:390px){
+
+    .img1{
+        width: 320px;
+        align-items: center;
+       
+    }
+    .row{
+        
+        flex-direction: column;
+    }
+    .btn1{
+        color: black;
+        background-color: white;
+        width: 200px;
+        font-weight: 800;
+        font-size: 18px;
+        margin-left: 23px;
+    }
+    .img2{
+        width: 310px;
+        height: 150px;
+    }
+    .sub-heading2{
+        color: white;
+        text-align: center;
+        width: 280px;
+    }
+    .sub-heading4{
+        color: white;
+        text-align: center;
+        width: 280px;
+    }
+}
+@media screen and (min-width:390px) and (max-width:394px){
+  
+    .img1{
+        width: 320px;
+        align-items: center;
+       
+    }
+    .row{
+        
+        flex-direction: column;
+    }
+    .btn1{
+        color: black;
+        background-color: white;
+        width: 200px;
+        font-weight: 800;
+        font-size: 18px;
+        margin-left: 23px;
+    }
+    .img2{
+        width: 310px;
+        height: 150px;
+    }
+    .sub-heading2{
+        color: white;
+        text-align: center;
+        width: 280px;
+    }
+    .sub-heading4{
+        color: white;
+        text-align: center;
+        width: 280px;
+    }
+}
+@media screen and (min-width:394px) and (max-width:415px){
+  
+    .img1{
+        width: 320px;
+        align-items: center;
+       
+    }
+    .row{
+        
+        flex-direction: column;
+    }
+    .btn1{
+        color: black;
+        background-color: white;
+        width: 200px;
+        font-weight: 800;
+        font-size: 18px;
+        margin-left: 40px;
+    }
+    .img2{
+        width: 320px;
+        height: 150px;
+    }
+    .sub-heading2{
+        color: white;
+        text-align: center;
+        width: 320px;
+    }
+    .sub-heading4{
+        color: white;
+        text-align: center;
+        width: 320px;
+    }
+}
+
+@media screen and (min-width:415px) and (max-width:430px){
+   
+    .img1{
+        width: 330px;
+        align-items: center;
+       
+    }
+    .row{
+        
+        flex-direction: column;
+    }
+    .btn1{
+        color: black;
+        background-color: white;
+        width: 200px;
+        font-weight: 800;
+        font-size: 18px;
+        margin-left: 48px;
+    }
+    .img2{
+        width: 330px;
+        height: 150px;
+    }
+    .sub-heading2{
+        color: white;
+        text-align: center;
+        width: 350px;
+    }
+    .sub-heading4{
+        color: white;
+        text-align: center;
+        width: 350px;
+    }
+
+}
+@media screen and (min-width:425px) and (max-width:540px){
+
+       
+    .img1{
+        width: 330px;
+        align-items: center;
+       
+    }
+    .row{
+        
+        flex-direction: column;
+    }
+    .btn1{
+        color: black;
+        background-color: white;
+        width: 200px;
+        font-weight: 800;
+        font-size: 18px;
+        margin-left: 48px;
+    }
+    .img2{
+        width: 330px;
+        height: 150px;
+    }
+    .sub-heading2{
+        color: white;
+        text-align: center;
+        width: 350px;
+    }
+    .sub-heading4{
+        color: white;
+        text-align: center;
+        width: 350px;
+    }
+}
